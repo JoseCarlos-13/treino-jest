@@ -1,7 +1,10 @@
 {
-  "devDependencies": {
-    "jest": "^26.6.3"
-  },
+  "name": "treino-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JoseCarlos-13/treino-jest.git",
+  "author": "JoseCarlos-13 <josecarlosbsilva.17@gmail.com>",
+  "license": "MIT",
 
   "scripts": {
     "test": "jest"
